@@ -27,5 +27,6 @@ for the .py files run them in sequence with the data folder moved into the .py f
 
 for the .ipynb files, move the data folder into the .ipynb folder. in the first file run all definitions and choose a cell that has the mode you are interested in running. run that cell. then move onto the next file in the sequence.
 
+the file contained in the Alpha color folder was written by AI to quickly bridge the gap between the black and white and color images.
 
 Starr Boney, Umeshika Dissanayaka, Lillian Rutowski, Aaron George, and Min Gyu Kim
